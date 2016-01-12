@@ -20,6 +20,6 @@
 #ifndef LIBOPENCM3_EFM32_WG_WDOG_H
 #define LIBOPENCM3_EFM32_WG_WDOG_H
 
-#include <libopencm3/efm32/common/wdog.h>
+#include <libopencm3/efm32/common/wdog_common.h>
 
 #endif

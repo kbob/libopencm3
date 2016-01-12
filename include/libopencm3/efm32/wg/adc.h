@@ -20,6 +20,6 @@
 #ifndef LIBOPENCM3_EFM32_WG_ADC_H
 #define LIBOPENCM3_EFM32_WG_ADC_H
 
-#include <libopencm3/efm32/common/adc.h>
+#include <libopencm3/efm32/common/adc_common.h>
 
 #endif

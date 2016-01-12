@@ -20,6 +20,6 @@
 #ifndef LIBOPENCM3_EFM32_WG_UART_H
 #define LIBOPENCM3_EFM32_WG_UART_H
 
-#include <libopencm3/efm32/common/uart.h>
+#include <libopencm3/efm32/common/uart_common.h>
 
 #endif

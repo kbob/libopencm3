@@ -20,6 +20,6 @@
 #ifndef LIBOPENCM3_EFM32_WG_USB_H
 #define LIBOPENCM3_EFM32_WG_USB_H
 
-#include <libopencm3/efm32/common/usb.h>
+#include <libopencm3/efm32/common/usb_common.h>
 
 #endif

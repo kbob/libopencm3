@@ -20,6 +20,6 @@
 #ifndef LIBOPENCM3_EFM32_WG_PRS_H
 #define LIBOPENCM3_EFM32_WG_PRS_H
 
-#include <libopencm3/efm32/common/prs.h>
+#include <libopencm3/efm32/common/prs_common.h>
 
 #endif

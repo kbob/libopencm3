@@ -20,6 +20,6 @@
 #ifndef LIBOPENCM3_EFM32_WG_I2C_H
 #define LIBOPENCM3_EFM32_WG_I2C_H
 
-#include <libopencm3/efm32/common/i2c.h>
+#include <libopencm3/efm32/common/i2c_common.h>
 
 #endif

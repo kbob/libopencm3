@@ -20,6 +20,6 @@
 #ifndef LIBOPENCM3_EFM32_WG_MSC_H
 #define LIBOPENCM3_EFM32_WG_MSC_H
 
-#include <libopencm3/efm32/common/msc.h>
+#include <libopencm3/efm32/common/msc_common.h>
 
 #endif

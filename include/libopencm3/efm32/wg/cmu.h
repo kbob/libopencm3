@@ -20,6 +20,6 @@
 #ifndef LIBOPENCM3_EFM32_WG_CMU_H
 #define LIBOPENCM3_EFM32_WG_CMU_H
 
-#include <libopencm3/efm32/common/cmu.h>
+#include <libopencm3/efm32/common/cmu_common.h>
 
 #endif

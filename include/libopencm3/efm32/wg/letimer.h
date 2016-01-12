@@ -20,6 +20,6 @@
 #ifndef LIBOPENCM3_EFM32_WG_LETIMER_H
 #define LIBOPENCM3_EFM32_WG_LETIMER_H
 
-#include <libopencm3/efm32/common/letimer.h>
+#include <libopencm3/efm32/common/letimer_common.h>
 
 #endif
