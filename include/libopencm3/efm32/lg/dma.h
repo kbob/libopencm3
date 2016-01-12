@@ -20,6 +20,6 @@
 #ifndef LIBOPENCM3_EFM32_LG_DMA_H
 #define LIBOPENCM3_EFM32_LG_DMA_H
 
-#include <libopencm3/efm32/common/dma.h>
+#include <libopencm3/efm32/common/dma_common.h>
 
 #endif

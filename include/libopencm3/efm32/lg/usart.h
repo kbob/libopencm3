@@ -20,6 +20,6 @@
 #ifndef LIBOPENCM3_EFM32_LG_USART_H
 #define LIBOPENCM3_EFM32_LG_USART_H
 
-#include <libopencm3/efm32/common/usart.h>
+#include <libopencm3/efm32/common/usart_common.h>
 
 #endif

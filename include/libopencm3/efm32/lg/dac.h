@@ -20,6 +20,6 @@
 #ifndef LIBOPENCM3_EFM32_LG_DAC_H
 #define LIBOPENCM3_EFM32_LG_DAC_H
 
-#include <libopencm3/efm32/common/dac.h>
+#include <libopencm3/efm32/common/dac_common.h>
 
 #endif

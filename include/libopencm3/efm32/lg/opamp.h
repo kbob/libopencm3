@@ -20,6 +20,6 @@
 #ifndef LIBOPENCM3_EFM32_LG_OPAMP_H
 #define LIBOPENCM3_EFM32_LG_OPAMP_H
 
-#include <libopencm3/efm32/common/opamp.h>
+#include <libopencm3/efm32/common/opamp_common.h>
 
 #endif

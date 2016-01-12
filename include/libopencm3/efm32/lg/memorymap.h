@@ -20,6 +20,6 @@
 #ifndef LIBOPENCM3_EFM32_LG_MEMORYMAP_H
 #define LIBOPENCM3_EFM32_LG_MEMORYMAP_H
 
-#include <libopencm3/efm32/common/memorymap.h>
+#include <libopencm3/efm32/common/memorymap_common.h>
 
 #endif

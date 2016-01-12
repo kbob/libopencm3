@@ -20,6 +20,6 @@
 #ifndef LIBOPENCM3_EFM32_LG_RTC_H
 #define LIBOPENCM3_EFM32_LG_RTC_H
 
-#include <libopencm3/efm32/common/rtc.h>
+#include <libopencm3/efm32/common/rtc_common.h>
 
 #endif

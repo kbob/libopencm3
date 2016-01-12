@@ -20,6 +20,6 @@
 #ifndef LIBOPENCM3_EFM32_LG_TIMER_H
 #define LIBOPENCM3_EFM32_LG_TIMER_H
 
-#include <libopencm3/efm32/common/timer.h>
+#include <libopencm3/efm32/common/timer_common.h>
 
 #endif

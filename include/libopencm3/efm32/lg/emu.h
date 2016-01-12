@@ -20,6 +20,6 @@
 #ifndef LIBOPENCM3_EFM32_LG_EMU_H
 #define LIBOPENCM3_EFM32_LG_EMU_H
 
-#include <libopencm3/efm32/common/emu.h>
+#include <libopencm3/efm32/common/emu_common.h>
 
 #endif

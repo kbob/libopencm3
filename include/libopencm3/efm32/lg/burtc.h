@@ -20,6 +20,6 @@
 #ifndef LIBOPENCM3_EFM32_LG_BURTC_H
 #define LIBOPENCM3_EFM32_LG_BURTC_H
 
-#include <libopencm3/efm32/common/burtc.h>
+#include <libopencm3/efm32/common/burtc_common.h>
 
 #endif

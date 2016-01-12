@@ -20,6 +20,6 @@
 #ifndef LIBOPENCM3_EFM32_LG_ACMP_H
 #define LIBOPENCM3_EFM32_LG_ACMP_H
 
-#include <libopencm3/efm32/common/acmp.h>
+#include <libopencm3/efm32/common/acmp_common.h>
 
 #endif
