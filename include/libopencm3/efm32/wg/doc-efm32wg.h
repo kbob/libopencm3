@@ -19,10 +19,10 @@ Libraries for Silicon Laboratories EFM32 Wonder Gecko series.
 LGPL License Terms @ref lgpl_license
 */
 
-/** @defgroup EFM32LG_defines EFM32 Leopard Gecko Defines
+/** @defgroup EFM32LG_defines EFM32 Wonder Gecko Defines
 
 @brief Defined Constants and Types for the Silicon Laboratories EFM32
-Leopard Gecko series
+Wonder Gecko series
 
 @version 1.0.0
 
