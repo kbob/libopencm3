@@ -112,6 +112,7 @@
 #define RCC_PLLCFGR_PLLN_SHIFT			6
 /* PLLM: [5:0] */
 #define RCC_PLLCFGR_PLLM_SHIFT			0
+#define RCC_PLLCFGR_PLLM_MASK			0x3f
 
 /* --- RCC_CFGR values ----------------------------------------------------- */
 
@@ -486,8 +487,10 @@
 
 /* RCC_PLLI2SCFGR[30:28]: PLLI2SR */
 #define RCC_PLLI2SCFGR_PLLI2SR_SHIFT		28
+#define RCC_PLLI2SCFGR_PLLI2SR_MASK		0x7
 /* RCC_PLLI2SCFGR[14:6]: PLLI2SN */
 #define RCC_PLLI2SCFGR_PLLI2SN_SHIFT		6
+#define RCC_PLLI2SCFGR_PLLI2SN_MASK		0x1ff
 
 /* --- RCC_PLLSAICFGR values ----------------------------------------------- */
 
