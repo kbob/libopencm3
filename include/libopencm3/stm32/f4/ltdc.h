@@ -261,11 +261,11 @@
 #define LTDC_LxCKCR_CKRED_MASK          0xff
 
 /* Color Key Green */
-#define LTDC_LxCKCR_CKGREEN_SHIFT       16
+#define LTDC_LxCKCR_CKGREEN_SHIFT       8
 #define LTDC_LxCKCR_CKGREEN_MASK        0xff
 
 /* Color Key Blue */
-#define LTDC_LxCKCR_CKBLUE_SHIFT        16
+#define LTDC_LxCKCR_CKBLUE_SHIFT        0
 #define LTDC_LxCKCR_CKBLUE_MASK         0xff
 
 /* LTDC_LxPFCR - Pixel formats */
